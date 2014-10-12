@@ -1,0 +1,46 @@
+body{
+     background: url("wood.jpg");
+       //background-color: white;     
+}
+
+.plaisio{
+    border-style: inset;
+    border-width: 10px;
+    border-color: black;
+    height: 700px;
+    width: 1350px;
+    position: absolute;
+    left: 120px;
+    top: 100px;
+    background: url("paper.jpg");
+}
+
+.onoma{
+    position:relative;
+    font-family: "Times New Roman", Times, serif;
+    left: 350px;
+    top: -300px;
+    font-size: 35px;
+}
+
+.info{
+    position:relative;
+    font-family: "Times New Roman", Times, serif;
+    left: 50px;
+    top: -200px;
+    font-size: 25px;
+    
+    
+}
+
+.photo{
+  
+  position: relative;
+  left: 850px;
+  top: 300px;
+  border-radius: 200px;
+  width: 223px;
+  height: 345px;
+  background: url("egw.jpg");
+}
+
